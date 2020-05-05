@@ -1,0 +1,7 @@
+The reservation is up to date, checked at 2020-02-09 20:37:10.008978
+The reservation is up to date, checked at 2020-02-09 20:37:49.158300
+Reservation done for next Sunday, reserved at 2020-02-09 20:38:53.711164
+The reservation is up to date, checked at 2020-02-10 14:21:24.340609
+The reservation is up to date, checked at 2020-02-11 08:34:26.568436
+The reservation is up to date, checked at 2020-02-11 09:32:49.389140
+The reservation is up to date, checked at 2020-02-11 09:33:35.335711
